@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/manager" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/manager/category" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/manager/core" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/manager/expense" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/manager/income" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/manager/manager" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/manager/settings" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/manager/users" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/venv" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
